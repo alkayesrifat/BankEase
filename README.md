@@ -1,12 +1,15 @@
 # Banking System
 
+
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenM0eXoyNXR4bm1hbHg0ZmZvemRwZXU5MHRpaWNla29haXA4bGxjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PKYyWkGP8y0AVypO3L/giphy.gif">
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
 ![Matplotlib](https://img.shields.io/badge/Plotting-Matplotlib-orange)
 
 A **Banking System** application built using Python and Tkinter for the graphical user interface (GUI). This project simulates a basic banking system where users can create accounts, perform transactions, and manage their finances. It also includes an admin panel for managing accounts, transactions, and interest rates.
 
----
+
 
 ## Features
 
